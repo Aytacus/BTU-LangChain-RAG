@@ -165,7 +165,7 @@ npm run build
 vercel --prod
 ```
 
-### Backend - Render/AWS EC2
+### Backend - AWS EC2
 ```bash
 uvicorn api:app --host 0.0.0.0 --port 8000
 ```
@@ -216,7 +216,7 @@ Bu proje eğitim amaçlı geliştirilmiştir ve Bursa Teknik Üniversitesi Bilgi
 | **AI/ML** | - | LangChain 0.3.10 + GPT-4o-mini | RAGAS 0.1.21 |
 | **Database** | Firebase Firestore | ChromaDB 0.5.23 | File-based |
 | **Styling** | Tailwind CSS 4.1.1 | - | - |
-| **Deployment** | Vercel | Render/AWS EC2 | Local |
+| **Deployment** | Vercel |AWS EC2 | Local |
 | **Authentication** | Firebase Auth 11.6.0 | - | - |
 | **External APIs** | - | Google Custom Search API | - |
 
