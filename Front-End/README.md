@@ -12,11 +12,10 @@ Bu proje, **BTU-CHATBOT: LANGCHAIN TABANLI ÇOK AJANLI RAG CHATBOTU VE DEĞERLEN
 
 ### LangChain ReAct Agent Entegrasyonu
 - **Akıllı Chatbot**: FastAPI backend'le `/api/query` endpoint'i üzerinden iletişim
-- **Agent Reasoning Display**: LangChain ReAct agent'ın düşünce sürecini görselleştirme
 - **Real-time Responses**: RESTful API ile bot yanıtları
 - **Source Attribution**: PDF ve web kaynak bilgilerini gösterme
 - **Conversation Memory**: Firebase Firestore ile oturum bazlı konuşma hafızası
-- **Auto Title Generation**: Son mesajlara göre oturum başlığı üretimi
+- **Auto Title Generation**: İlk 2 mesaja göre oturum başlığı üretimi
 
 ### Akıllı Chatbot Sistemi
 - **GPT-4o-mini Integration**: Backend üzerinden OpenAI API kullanımı
