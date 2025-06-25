@@ -320,13 +320,6 @@ const texts = {
 };
 ```
 
-## Performans İzleme
-
-Web Vitals ile chatbot performans metrikleri:
-- **FCP** (First Contentful Paint)
-- **LCP** (Largest Contentful Paint)  
-- **FID** (First Input Delay)
-- **CLS** (Cumulative Layout Shift)
 
 ## Sorun Giderme
 
