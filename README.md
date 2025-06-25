@@ -77,11 +77,13 @@ FastAPI framework'ü ile geliştirilmiş, **LangChain ReAct agent** backend serv
 
 ### Gereksinimler
 - **Node.js** (v16+) - Frontend için
-- **Python** (3.8+) - Backend için
-- **Git** - Versiyon kontrolü
+- **React 19.1.0**  - Frontend için
+- **python**  - Backend için
 - **OpenAI API Key** - GPT-4o-mini için
 - **Google API Keys** - Custom Search için
 - **Firebase Project** - Authentication için
+- **Not**: Back-end ile Metrics için requirements.txt olduğu için oradan kurulum yapabilirsiniz. Front-end ve firebase için gerekli kurulum ve dosyalar gerekli.
+  
 
 ### Kurulum Adımları
 
@@ -157,18 +159,7 @@ Chatbot sistem performansı **RAGAS framework** ile ölçülür:
 - **Faithfulness**: Kaynak belgelerle tutarlılık
 - **Answer Relevancy**: Yanıtın soruyla uyumu
 
-## Deployment
 
-### Frontend - Vercel
-```bash
-npm run build
-vercel --prod
-```
-
-### Backend - AWS EC2
-```bash
-uvicorn api:app --host 0.0.0.0 --port 8000
-```
 
 ## Development
 
