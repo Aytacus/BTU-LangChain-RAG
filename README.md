@@ -218,11 +218,11 @@ Chatbot sistem performansı **RAGAS framework** ile ölçülür:
 
 <p align="center"><img src="Figure/15.png" alt="RAG Dosyalar" width="600"/></p>
 
-<p align="center"><strong>Şekil 8: RAG Yöntemiyle Ulaşılan Dosyalar</strong></p>
+<p align="center"><strong>Şekil 8: RAG Yöntemiyle Chatbot'un Cevabır</strong></p>
 
 <p align="center"><img src="Figure/16.png" alt="Web Searching" width="600"/></p>
 
-<p align="center"><strong>Şekil 9: Web Searching ile Bulma</strong></p>
+<p align="center"><strong>Şekil 9: Web Searching ile Chatbot'un Cevabı</strong></p>
 
 ## Development
 
