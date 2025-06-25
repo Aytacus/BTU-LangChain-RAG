@@ -159,7 +159,70 @@ Chatbot sistem performansı **RAGAS framework** ile ölçülür:
 - **Faithfulness**: Kaynak belgelerle tutarlılık
 - **Answer Relevancy**: Yanıtın soruyla uyumu
 
+## Uygulama Görüntüleri
 
+<table>
+<tr>
+<td><img src="Figure/1.png" alt="Homepage Gündüz" width="400"/></td>
+<td><img src="Figure/2.png" alt="Homepage Gece" width="400"/></td>
+</tr>
+</table>
+
+**Şekil 1: Homepage Ekranı (Gündüz ve Gece)**
+
+<table>
+<tr>
+<td><img src="Figure/3.png" alt="Kayıt Gündüz" width="400"/></td>
+<td><img src="Figure/4.png" alt="Kayıt Gece" width="400"/></td>
+</tr>
+</table>
+
+**Şekil 2: Kayıt Ekranı (Gündüz ve Gece)**
+
+<img src="Figure/5.png" alt="Doğrulama Ekranı" width="400"/>
+
+**Şekil 3: Doğrulama Ekranı**
+
+<img src="Figure/6.png" alt="Şifre Sıfırlama Ekranı" width="400"/>
+
+**Şekil 4: Şifre Sıfırlama Ekranı**
+
+<table>
+<tr>
+<td><img src="Figure/7.png" alt="Giriş Gündüz" width="400"/></td>
+<td><img src="Figure/8.png" alt="Giriş Gece" width="400"/></td>
+</tr>
+</table>
+
+**Şekil 5: Giriş Ekranı (Gündüz ve Gece)**
+
+<table>
+<tr>
+<td><img src="Figure/9.png" alt="Sohbet Güncelleme 1" width="267"/></td>
+<td><img src="Figure/10.png" alt="Sohbet Güncelleme 2" width="267"/></td>
+<td><img src="Figure/11.png" alt="Sohbet Güncelleme 3" width="267"/></td>
+</tr>
+</table>
+
+**Şekil 6: Sohbet Başlığı Güncelleme (Kullanıcı Değiştirmesi)**
+
+<table>
+<tr>
+<td><img src="Figure/12.png" alt="Sohbet Silme 1" width="267"/></td>
+<td><img src="Figure/13.png" alt="Sohbet Silme 2" width="267"/></td>
+<td><img src="Figure/14.png" alt="Sohbet Silme 3" width="267"/></td>
+</tr>
+</table>
+
+**Şekil 7: Sohbet Silme**
+
+<img src="Figure/15.png" alt="RAG Dosyalar" width="600"/>
+
+**Şekil 8: RAG Yöntemiyle Ulaşılan Dosyalar**
+
+<img src="Figure/16.png" alt="Web Searching" width="600"/>
+
+**Şekil 9: Web Searching ile Bulma**
 
 ## Development
 
