@@ -158,30 +158,35 @@ Chatbot sistem performansı **RAGAS framework** ile ölçülür:
 - **Context Precision**: Bulunan bilgilerin kalitesi  
 - **Faithfulness**: Kaynak belgelerle tutarlılık
 - **Answer Relevancy**: Yanıtın soruyla uyumu
+
+  ## Temel Metriklerin Karşılaştırılması
   <figure>
   <img src="Figure/17.png" alt="Recall, Precision, Faithfulness, Answer Relevancy">
-  <figcaption><strong>Şekil 5.2.</strong> 5 koşumda dört temel metriğin (Recall, Precision,
+  <figcaption><strong>Şekil 5.1.</strong> 5 koşumda dört temel metriğin (Recall, Precision,
   Faithfulness, Answer Relevancy) yan yana karşılaştırması. Recall–Precision %93–99
   aralığında seyrederken Faithfulness zayıf halka olarak göze çarpıyor; relevancy ise
   orta–iyi seviyede.</figcaption>
 </figure>
 
+## HM-all ve Answer Correctness Grafiği
 <figure>
   <img src="Figure/18.png" alt="HM-all ve Answer Correctness grafiği">
-  <figcaption><strong>Şekil 5.3.</strong> Dört temel metrik için harmonik ortalama (HM-all) ile
+  <figcaption><strong>Şekil 5.2.</strong> Dört temel metrik için harmonik ortalama (HM-all) ile
   doğruluk (1 – halüsinasyon oranı) arasındaki ilişki. Run-3’te answer-correctness yüksek
   görünse de HM-all düşüşü Faithfulness’taki zayıflığı işaret ediyor.</figcaption>
 </figure>
 
+## Run-2 Faithfulness Kutucuk-Bıyık Grafiği
 <figure>
   <img src="Figure/19.png" alt="Run-2 Faithfulness Kutucuk-Bıyık grafiği">
-  <figcaption><strong>Şekil 5.4.</strong> Run-2’deki Faithfulness skorlarının kutucuk-bıyık
+  <figcaption><strong>Şekil 5.3.</strong> Run-2’deki Faithfulness skorlarının kutucuk-bıyık
   grafiği. Medyan ≈ 0.33; birkaç yüksek skor 1.0’a kadar uzanan bıyıkta gözüküyor.</figcaption>
 </figure>
 
+## Halüsinasyonlu vs Halisünasyonsuz Histogram
 <figure>
   <img src="Figure/20.png" alt="Halüsinasyonlu vs halüsinasyonsuz histogram">
-  <figcaption><strong>Şekil 5.5.</strong> Halüsinasyon içermeyen cevaplar %80–100 benzerlik
+  <figcaption><strong>Şekil 5.4.</strong> Halüsinasyon içermeyen cevaplar %80–100 benzerlik
   aralığında yoğunlaşırken, 0.0’da da kümelenme gözleniyor; tek başına yüksek benzerlik
   halüsinasyon olmadığını garanti etmiyor.</figcaption>
 </figure>
@@ -195,12 +200,14 @@ Chatbot sistem performansı **RAGAS framework** ile ölçülür:
 | 5   |  33.0  | 103.0  | 136  |
 | Gemini | 34.7  | 137.7  | 172  |
 
+## Ortalama Token Kullanım Grafiği
 <figure>
   <img src="Figure/21.png" alt="Ortalama token kullanımı grafiği">
   <figcaption><strong>Şekil 5.6.</strong> Çubuk grafik, maliyetin & gecikmenin asıl nedeni olan
   output token’larının payını görsel olarak vurgular.</figcaption>
 </figure>
 
+## Ortalama Gecikme Süresi Grafiği
 <figure>
   <img src="Figure/22.png" alt="Ortalama gecikme süresi grafiği">
   <figcaption><strong>Şekil 5.7.</strong> Toplam token sayısı ile gecikme arasında doğrusal bir
