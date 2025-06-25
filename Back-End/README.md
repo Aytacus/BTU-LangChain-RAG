@@ -258,11 +258,7 @@ PORT=8000
 HOST=0.0.0.0
 ```
 
-### Render Deployment
-1. GitHub repository'yi Render'a bağla
-2. Environment variables'ları set et
-3. Build command: `pip install -r requirements.txt`
-4. Start command: `uvicorn api:app --host 0.0.0.0 --port $PORT`
+
 
 ### AWS EC2 Deployment
 ```bash
