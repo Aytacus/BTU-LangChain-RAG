@@ -7,7 +7,7 @@ from utils.data_loader import load_test_cases
 from eval.ragas_evulator import EnhancedRagasEvaluator
 from eval.hallucination_checker import HallucinationChecker
 from eval.performance_metrics import PerformanceMonitor
-from huggingface import setup_agent # bu iki satır degisecek
+from huggingface import setup_agent 
 from embedding import ingest_pdfs
 
 def run_evaluation():
