@@ -1,0 +1,1040 @@
+{
+  "test_cases": [
+    {
+
+      "id": 1,
+      "category": "Araştırma Merkezi",
+      "question": "Bursa Teknik Üniversitesi Deprem Mühendisliği Uygulama ve Araştırma Merkezi'nin faaliyet alanlarından biri nedir?",
+      "expected_answer": "Deprem tehlikesini belirleme amaçlı ve deprem zararlarını azaltmaya yönelik araştırma ve uygulama yapmak.",
+      "relevant_contexts": [
+        {
+          "source": "(BTU-DEPAR) YÖNETMELİĞİ.pdf",
+          "madde": "6",
+          "content": "Deprem tehlikesini belirleme amaçlı ve deprem zararlarını azaltmaya yönelik araştırma ve uygulama yapmak."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Afet Yönetimi",
+      "question": "Bursa Teknik Üniversitesi Afet Yönetimi Koordinatörlüğü'nün görevlerinden biri nedir?",
+      "expected_answer": "Kampüs içerisinde meydana gelen olaylarla ilgili hızlı bir şekilde tarama yaparak olayın büyüklüğüne, etkilenen alan ve etkilenen canlı sayısına ilişkin bilgileri içeren ilk değerlendirmeyi Rektörlüğe ve İl Afet Acil Durum Yönetim Merkezine ivedilikle bildirmek.",
+      "relevant_contexts": [
+        {
+          "source": "AFET YÖNETİMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Kampüs içerisinde meydana gelen olaylarla ilgili hızlı bir şekilde tarama yaparak olayın büyüklüğüne, etkilenen alan ve etkilenen canlı sayısına ilişkin bilgileri içeren ilk değerlendirmeyi Rektörlüğe ve İl Afet Acil Durum Yönetim Merkezine ivedilikle bildirmek."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "İşçi Yönetimi",
+      "question": "Belirsiz süreli işçilerin katılması gereken eğitim türü nedir?",
+      "expected_answer": "İşveren tarafından düzenlenecek hizmet içi eğitimlere katılmak zorundadır.",
+      "relevant_contexts": [
+        {
+          "source": "BELİRSİZ SÜRELİ İŞÇİLER ÇALIŞMA YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "İşçi, işveren tarafından düzenlenecek hizmet içi eğitimlere katılmak zorundadır."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Bilişim Kaynakları",
+      "question": "Bursa Teknik Üniversitesi'nde hangi tür faaliyetler için bilişim kaynaklarının kullanımı yasaktır?",
+      "expected_answer": "Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma amaçlı faaliyetler için kullanılamaz.",
+      "relevant_contexts": [
+        {
+          "source": "BİLGİSAYAR, AĞ VE BİLİŞİM KAYNAKLARI KULLANIM YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak amacıyla kullanılamaz."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Bilimsel Araştırma",
+      "question": "Bilimsel Araştırma Projesi (BAP) tamamlandığında hangi alanlara katkı sağlaması beklenir?",
+      "expected_answer": "Bilimsel içerikli olup ülkenin teknolojik, ekonomik, sosyal ve kültürel kalkınmasına katkı sağlaması beklenir.",
+      "relevant_contexts": [
+        {
+          "source": "BİLİMSEL ARAŞTIRMA PROJELERİ UYGULAMA YÖNERGESİ.pdf",
+          "madde": "3",
+          "content": "Tamamlandığında sonuçları ile alanında bilime katkı yapması, ülkenin teknolojik, ekonomik, sosyal ve kültürel kalkınmasına katkı sağlaması beklenen bilimsel içerikli projelerdir."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Akademik Arşiv",
+      "question": "Bursa Teknik Üniversitesi Akademik Arşiv Sistemi hangi birim tarafından işletilir?",
+      "expected_answer": "Akademik Arşiv Sistemi, Kütüphane ve Dokümantasyon Daire Başkanlığı tarafından işletilir.",
+      "relevant_contexts": [
+        {
+          "source": "AKADEMİK ARŞİV SİSTEMİ YÖNERGESİ.pdf",
+          "madde": "3",
+          "content": "Akademik Arşiv Sistemi, Kütüphane ve Dokümantasyon Daire Başkanlığı tarafından işletilir."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Akademik Personel Görevlendirme",
+      "question": "Kısa süreli görevlendirme süresi en fazla ne kadardır?",
+      "expected_answer": "Kısa süreli görevlendirme süresi üç aya kadardır (üç ay dahil).",
+      "relevant_contexts": [
+        {
+          "source": "AKADEMİK PERSONEL YURTİÇİ VE YURTDIŞI GÖREVLENDİRME YÖNERGESİ.pdf",
+          "madde": "4",
+          "content": "Öğretim elemanlarının bilimsel toplantılara katılmak, inceleme, araştırma ve uygulama yapmak üzere süresi üç ay kadar (üç ay dahil) olan görevlendirmeleridir."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Elektrikli Taşıtlar",
+      "question": "Bursa Teknik Üniversitesi Elektrikli Taşıtlar Merkezinin faaliyet alanları nelerdir?",
+      "expected_answer": "Test ve AR-GE ihtiyaçlarını karşılamak, projeler hazırlamak, danışmanlık hizmetleri sunmak, laboratuvar hizmetlerini sağlamak ve bilimsel etkinlikler düzenlemektir.",
+      "relevant_contexts": [
+        {
+          "source": "ELEKTRİKLİ TAŞITLAR UYGULAMA.pdf",
+          "madde": "6",
+          "content": "Üniversiteler, araştırma merkezleri, sanayi, kamu kurum ve kuruluşları ile üçüncü şahısların test ve AR-GE ihtiyaçlarını karşılamak, iş birliği yaparak projeler hazırlamak, bilimsel görüş, danışmanlık hizmetleri sunmak ve etkinlikler düzenlemek."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Elektronik Belge Yönetimi",
+      "question": "Elektronik belge yönetim sisteminde kullanılan elektronik imzanın amacı nedir?",
+      "expected_answer": "Elektronik ortamlarda imza yerine yasal kimlik doğrulama amacıyla kullanılır ve belge üzerinde sonradan değişiklik yapılıp yapılmadığını tespit eder.",
+      "relevant_contexts": [
+        {
+          "source": "ELEKTRONİK BELGE YÖNETİM SİSTEMİ VE İMZA YETKİLERİ YÖNERGESİ.pdf",
+          "madde": "4",
+          "content": "Elektronik imza, elektronik ortamlarda imza yerine yasal kimlik doğrulama amacıyla kullanılan elektronik veridir."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Engelsiz Üniversite",
+      "question": "Bursa Teknik Üniversitesi Engelsiz Üniversite Koordinatörlüğü komisyonunda hangi üyeler bulunur?",
+      "expected_answer": "Eğitim-öğretimden sorumlu rektör yardımcısı, rektör tarafından atanan koordinatör, akademik birim temsilcileri, Sağlık Kültür ve Spor Dairesi Başkanı, Öğrenci İşleri Daire Başkanı, Yapı İşleri Teknik Daire Başkanı ve engelli öğrenci temsilcisi bulunur.",
+      "relevant_contexts": [
+        {
+          "source": "ENGELSİZ ÜNİVERSİTE KOORDİNATÖRLÜĞÜ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Koordinatörlük komisyonu; eğitim-öğretimden sorumlu rektör yardımcısı başkanlığında koordinatör, akademik birim temsilcileri, Sağlık Kültür ve Spor Dairesi Başkanı, Öğrenci İşleri Daire Başkanı, Yapı İşleri Teknik Daire Başkanı ve engelli öğrenci temsilcisinden oluşur."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Erasmus",
+      "question": "Erasmus öğrencileri için öğrenim anlaşması kaç akademik yarıyıl için doldurulur?",
+      "expected_answer": "Bir akademik yarıyıl için doldurulur.",
+      "relevant_contexts": [
+        {
+          "source": "ERASMUS DEĞİŞİM PROGRAMI İLE GİDEN ÖĞRENCİLER İÇİN TANINMA (İNTİBAK) USUL VE ESASLARI.pdf",
+          "madde": "3",
+          "content": "Öğrenim Anlaşması Erasmus öğrenim hareketliliği gerçekleşmeden önce bir akademik yarıyıl için doldurulur."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Ders Görevlendirmeleri",
+      "question": "Bursa Teknik Üniversitesi'nde ders görevlendirmeleri hangi kurul tarafından karara bağlanır?",
+      "expected_answer": "Fakülte/Enstitü/Yüksekokul Yönetim Kurulu tarafından karara bağlanır.",
+      "relevant_contexts": [
+        {
+          "source": "DERS GÖREVLENDİRMELERİNE İLİŞKİN USUL VE ESASLAR.pdf",
+          "madde": "5",
+          "content": "Bir bölümde/programda ilgili yarıyılda açılacak derslerin hangi öğretim elemanları tarafından verileceği Fakülte/Enstitü/Yüksekokul Yönetim Kurulu tarafından karara bağlanır."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Yaz Öğretimi",
+      "question": "Bursa Teknik Üniversitesi öğrencileri yaz öğretimi kapsamında kaç ders alabilir?",
+      "expected_answer": "Bir dönemde en çok iki ders, eğitim öğretim dönemi boyunca ise toplamda en fazla dört ders alabilirler.",
+      "relevant_contexts": [
+        {
+          "source": "DİĞER YÜKSEKÖĞRETİM KURUMLARINDAN YAZ ÖĞRETİMİ KAPSAMINDA ALABİLECEK DERSLERLE İLGİLİ ESASLAR.pdf",
+          "madde": "6",
+          "content": "Öğrenciler, yaz öğretimi kapsamında bir dönemde en çok iki ders, eğitim öğretim dönemi boyunca toplamda en fazla dört ders alabilirler."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Diploma",
+      "question": "Diploma hazırlama süresi en fazla kaç aydır?",
+      "expected_answer": "Diplomalar mezuniyet tarihinden itibaren en geç altı ay içinde hazırlanır.",
+      "relevant_contexts": [
+        {
+          "source": "DİPLOMA, DİPLOMA EKİ İLE DİĞER BELGELERİN DÜZENLENMESİNE İLİŞKİN YÖNERGE.pdf",
+          "madde": "5",
+          "content": "Diplomalar mezuniyet tarihinden itibaren en geç altı ay içinde hazırlanır."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Döner Sermaye",
+      "question": "Bursa Teknik Üniversitesi Döner Sermaye İşletmesinin faaliyet alanları nelerdir?",
+      "expected_answer": "Bilimsel görüş vermek, proje yapmak, seminer düzenlemek, kurs açmak, danışmanlık yapmak, deney ve analiz yapmak, teknik kontrol yapmak ve basım-yayın hizmetlerini yerine getirmektir.",
+      "relevant_contexts": [
+        {
+          "source": "DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ.pdf",
+          "madde": "5",
+          "content": "İşletme bilimsel görüş vermek, proje yapmak, seminer ve kurslar düzenlemek, danışmanlık hizmetleri yapmak, analizler ve deneyler yapmak ve basım-yayın hizmetlerini yerine getirmek gibi faaliyetlerde bulunur."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Hukuk Müşavirliği",
+      "question": "Bursa Teknik Üniversitesi Hukuk Müşavirliği çalışanlarının uyması gereken etik ilkeler nelerdir?",
+      "expected_answer": "Hukuk Müşavirliği çalışanları, Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik hükümlerine uymalıdır.",
+      "relevant_contexts": [
+        {
+          "source": "HUKUK MÜŞAVİRLİĞİ ÇALIŞMA, GÖREV VE YETKİ YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Hukuk Müşavirliğinde ve büroda görevli tüm çalışanlar, Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik hükümlerine uymak zorundadır."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "İç Denetim",
+      "question": "Bursa Teknik Üniversitesi'nde iç denetim faaliyetlerinin kapsamı nedir?",
+      "expected_answer": "Kurumun tüm süreç ve faaliyetleri iç denetim kapsamındadır.",
+      "relevant_contexts": [
+        {
+          "source": "İÇ DENETİM YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Kurumun tüm süreç ve faaliyetleri iç denetim kapsamındadır."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "İç Kontrol",
+      "question": "İç kontrol faaliyetlerinin temel ilkeleri nelerdir?",
+      "expected_answer": "İç kontrol faaliyetleri idarenin yönetim sorumluluğu çerçevesinde yürütülür, riskli alanlar dikkate alınır, sorumluluk işlem sürecindeki tüm görevlileri kapsar ve tüm işlemleri içerir.",
+      "relevant_contexts": [
+        {
+          "source": "İÇ KONTROL VE ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "İç kontrol faaliyetleri idarenin yönetim sorumluluğu çerçevesinde yürütülür; riskli alanlar öncelikle dikkate alınır; sorumluluk işlem sürecinde yer alan bütün görevlileri kapsar."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "İdari Personel Ödül",
+      "question": "Üstün başarı belgesi kimlere verilir?",
+      "expected_answer": "Üç defa başarı belgesi alan idari personele verilir.",
+      "relevant_contexts": [
+        {
+          "source": "İDARİ PERSONEL ÖDÜL YÖNERGESİ.pdf",
+          "madde": "3",
+          "content": "Üstün Başarı Belgesi: Üç defa başarı belgesi alanlara verilen belgeyi ifade eder."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Tanıtım Araçları",
+      "question": "Bursa Teknik Üniversitesi'nde siyasi parti propagandası içeren tanıtım araçları kullanılabilir mi?",
+      "expected_answer": "Hayır, siyasi parti propagandası içeren tanıtım araçları kullanılamaz.",
+      "relevant_contexts": [
+        {
+          "source": "İLAN, AFİŞ, STAND VE TANITIM ARAÇLARINA İLİŞKİN UYGULAMA YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Siyasi parti propagandası, terör örgütü faaliyetleri içeren unsurlar (resim, flama, tanıtıcı işaret, logo) kullanılamaz."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Fikri ve Sınai Mülkiyet",
+      "question": "Bursa Teknik Üniversitesi'nde buluşlardan elde edilen gelirler nasıl paylaşılır?",
+      "expected_answer": "Buluştan elde edilen gelirler, araştırmacılar ile Üniversite arasında belirlenen usullere göre paylaşılır.",
+      "relevant_contexts": [
+        {
+          "source": "FİKRİ VE SINAİ MÜLKİYET HAKLARI YÖNERGESİ.pdf",
+          "madde": "2",
+          "content": "Bu Yönerge, araştırmacılar tarafından BTÜ’de gerçekleştirilen buluşların bildirimini, hak sahipliğini ve buluştan elde edilen gelirin paylaşımına ilişkin hususları kapsar."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Güvenlik Soruşturması",
+      "question": "Bursa Teknik Üniversitesi'nde güvenlik soruşturması hangi personel için yapılır?",
+      "expected_answer": "Üniversitedeki gizlilik dereceli birimler ve görevlerde çalışacak tüm personel için yapılır.",
+      "relevant_contexts": [
+        {
+          "source": "GÜVENLİK SORUŞTURMASI VE ARŞİV ARAŞTIRMASI YÖNERGESİ.pdf",
+          "madde": "2",
+          "content": "Bu Yönerge; BTÜ’nün gizlilik dereceli birim ve unvanlar ile bu birim ve unvanlara atanacak personeli kapsar."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Hizmet İçi Eğitim",
+      "question": "Bursa Teknik Üniversitesi'nde hizmet içi eğitim faaliyetlerinin planlanmasında hangi ilkeler esas alınır?",
+      "expected_answer": "Mesleki gelişim ihtiyaçları dikkate alınır, eğitim faaliyetlerinin personelin görevleriyle uyumlu olması sağlanır ve eğitim sürekli değerlendirilerek geliştirilir.",
+      "relevant_contexts": [
+        {
+          "source": "HİZMET İÇİ EĞİTİM YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Hizmet içi eğitim faaliyetlerinin planlanmasında personelin mesleki gelişim ihtiyaçları dikkate alınır; eğitim faaliyetlerinin görevlerle uyumu sağlanır ve eğitim sürekli olarak değerlendirilerek geliştirilir."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Kısmi Zamanlı Öğrenci",
+      "question": "Kısmi zamanlı öğrenci olarak çalıştırılacaklarda aranan şartlar arasında disiplin cezası olmaması şartı var mıdır?",
+      "expected_answer": "Evet, kısmi zamanlı çalıştırılacak öğrencilerde disiplin cezası almamış olmak şartı aranır.",
+      "relevant_contexts": [
+        {
+          "source": "KISMİ ZAMANLI ÖĞRENCİ ÇALIŞTIRMA YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Kısmi zamanlı çalıştırılacak öğrenciler disiplin cezası almamış olmak zorundadır."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "İş Sağlığı ve Güvenliği",
+      "question": "İş sağlığı ve güvenliği kapsamında acil durum planının içeriği nedir?",
+      "expected_answer": "İşyerlerinde meydana gelebilecek acil durumlarda yapılacak iş ve işlemleri içeren bilgi ve eylem planıdır.",
+      "relevant_contexts": [
+        {
+          "source": "İŞ SAĞLIĞI VE GÜVENLİĞİ UYGULAMA YÖNERGESİ.pdf",
+          "madde": "4",
+          "content": "Acil durum planı: İşyerlerinde meydana gelebilecek acil durumlarda yapılacak iş ve işlemler dahil bilgilerin ve uygulamaya yönelik eylemlerin yer aldığı plandır."
+        }
+      ]
+    },
+      {
+      "id": 26,
+      "category": "İşletmede Mesleki Eğitim",
+      "question": "BTÜ-İMEP döneminde öğrencilerin kullanabileceği izin hakkı ne kadardır?",
+      "expected_answer": "Öğrenciler BTÜ-İMEP döneminde en fazla 7 iş günü izin kullanabilir.",
+      "relevant_contexts": [
+        {
+          "source": "İŞLETMEDE MESLEKİ EĞİTİM PROGRAMI YÖNERGESİ.pdf",
+          "madde": "8",
+          "content": "BTÜ-İMEP döneminde öğrencilerin izin hakkı bulunmamaktadır ancak gerekli görülen hallerde işletme amiri dönem boyunca 7 işgününü geçmeyecek şekilde izin verebilir."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "category": "İşletmede Mesleki Eğitim",
+      "question": "BTÜ-İMEP dersinin değerlendirilme ağırlıkları nasıldır?",
+      "expected_answer": "BTÜ-İMEP dersi değerlendirilirken İMEP Sektör Danışmanının puanı %40, İMEP Değerlendirme Jürisinin puanı ise %60 ağırlıklandırılır.",
+      "relevant_contexts": [
+        {
+          "source": "İŞLETMEDE MESLEKİ EĞİTİM PROGRAMI.pdf",
+          "madde": "8",
+          "content": "BTÜ-İMEP dersi, İMEP Sektör Danışmanı ve İMEP Değerlendirme Jürisi tarafından verilen puanların sırasıyla %40 ve %60 oranında ağırlıklandırılmasıyla hesaplanır."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Kurumsal İletişim",
+      "question": "BTÜ Kurumsal İletişim Koordinatörlüğünün görevleri nelerdir?",
+      "expected_answer": "Üniversitenin stratejik iletişim politikalarını belirlemek, imaj ve itibarını güçlendirmek, kurum içi ve dışı iletişimi düzenlemek ve uluslararası tanıtım stratejilerini planlamak.",
+      "relevant_contexts": [
+        {
+          "source": "KURUMSAL ILETİŞİM KOORDİNATÖRLÜĞÜ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Üniversitenin stratejik iletişim ilke ve politikalarını belirlemek, imajını ve marka değerini güçlendirecek faaliyetlerde bulunmak, kurum içi ve dışı iletişimi düzenlemek ve koordine etmek, ulusal ve uluslararası tanıtımı için gerekli stratejileri planlamak."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Kütüphane",
+      "question": "Bursa Teknik Üniversitesi kütüphanelerinde ödünç materyal alma sınırı nedir?",
+      "expected_answer": "Akademik personel için en fazla 10 materyal, idari personel ve öğrenciler için en fazla 5 materyal ödünç alınabilir.",
+      "relevant_contexts": [
+        {
+          "source": "KÜTÜPHANE YÖNERGESİ.pdf",
+          "madde": "8",
+          "content": "Akademik personel bir defada en çok 10 materyal, idari personel ve öğrenciler ise en çok 5 materyal ödünç alabilir."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Lisans Yatay Geçiş",
+      "question": "Bursa Teknik Üniversitesinde yatay geçiş yapmak için disiplin cezası alınmış olma durumu nasıl değerlendirilir?",
+      "expected_answer": "Disiplin cezası alan öğrenciler yatay geçiş için başvuramazlar.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS DÜZEYİNDEKİ PROGRAMLAR ARASINDA GEÇİŞ VE KREDİ TRANSFERİ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Disiplin cezası alanlar yatay geçiş için başvuramazlar."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Lisans Eğitim",
+      "question": "Bursa Teknik Üniversitesinde lisans programlarının eğitim-öğretim süresi nedir?",
+      "expected_answer": "Lisans programlarının eğitim süresi 4 yıldır ve azami tamamlanma süresi 7 yıldır.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+          "madde": "8",
+          "content": "Öğrenciler bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıt oldukları programa ilişkin derslerin verildiği dönemden başlamak üzere, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl içinde tamamlamak zorundadırlar."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Başarı Sıralaması",
+      "question": "BTÜ lisans mezunları başarı sıralamasına girmek için üniversitede kaç yarıyıl eğitim almış olmalıdır?",
+      "expected_answer": "MTBS için en az 3 yarıyıl, KMBS için ise en az 4 yarıyıl BTÜ'de eğitim almış olmak gereklidir.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS MEZUNLARININ BAŞARI SIRALAMASININ TESPİTİNE İLİŞKİN USUL VE ESASLAR.pdf",
+          "madde": "5",
+          "content": "MTBS için en az 3 yarıyılını (1,5 yıl), KMBS için ise en az 4 yarıyılını (2 yıl), Bursa Teknik Üniversitesinde sıralamaya girilecek diploma programında tamamlamış olmak gereklidir."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Kariyer Merkezi",
+      "question": "Bursa Teknik Üniversitesi Kariyer Gelişimi Merkezinin amaçları nelerdir?",
+      "expected_answer": "Öğrencilere kariyer danışmanlığı yapmak, mesleki yeterliklerini artırmak, staj ve proje yapabilecekleri kurumlarla bağlantılar kurmak ve mezunlarının istihdamını artırmaktır.",
+      "relevant_contexts": [
+        {
+          "source": "KARİYER GELİŞİMİ UYGULAMA VE ARASTIRMA MERKEZİ YONETMELIGI.pdf",
+          "madde": "5",
+          "content": "Öğrencilere kariyer planlaması konusunda danışmanlık yapmak, mesleki yeterliklerini artırmak, staj ve proje yapabilecekleri kurumlarla bağlantı kurmalarına destek olmak, mezunlarının istihdamını artırmaya yönelik çalışmalar yürütmek."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Kimlik Kartları",
+      "question": "BTÜ öğrenci kimlik kartlarının geçerlilik süresi neye göre belirlenir?",
+      "expected_answer": "BTÜ öğrenci kimlik kartlarının geçerlilik süresi öğrencinin üniversitedeki öğrencilik süresiyle sınırlıdır.",
+      "relevant_contexts": [
+        {
+          "source": "KURUM KİMLİK, MEZUN VE ZİYARETÇİ KARTI YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Öğrenci kimlik kartlarının geçerlilik süresi Üniversitedeki öğrencilik süresiyle sınırlıdır."
+        }
+      ]
+    },
+      {
+      "id": 35,
+      "category": "Bütünleme Sınavı",
+      "question": "Bütünleme sınavına kimler doğrudan dahil edilir?",
+      "expected_answer": "İlgili yarıyılda ders harf notu FF ve FD olan öğrenciler bütünleme sınav listesine doğrudan eklenir.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS PROGRAMLARI İÇİN BÜTÜNLEME SINAVI SENATO ESASLARI.pdf",
+          "madde": "4",
+          "content": "İlgili yarıyılda ders harf notu FF ve FD notu olan öğrenciler o dersin bütünleme sınav listesine doğrudan eklenir."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "category": "Muafiyet Sınavı",
+      "question": "Bursa Teknik Üniversitesi'nde ders intibak başvuruları ne zaman yapılmalıdır?",
+      "expected_answer": "Öğrenciler, kayıt yapıldığı tarihten itibaren 10 iş günü içinde dilekçe, not döküm belgesi ve ders içerikleri ile başvuru yapmalıdır.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS PROGRAMLARI İÇİN MUAFİYET SINAVLARI, DERS EŞDEĞERLİK, İNTİBAK USUL VE ESASLARI.pdf",
+          "madde": "3",
+          "content": "Öğrenci ders intibak ve eşdeğerlik başvurusunu, kaydı yapıldığı tarihten itibaren 10 (on) iş günü içinde; dilekçe, not döküm belgesi ve ders içerikleri ile birlikte ilgili bölüm başkanlığına yapar."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Özel Öğrencilik",
+      "question": "BTÜ lisans programlarında özel öğrenci olarak kabul edilmek için AGNO koşulu nedir?",
+      "expected_answer": "Özel öğrenci başvurusu yapmak için lisans programlarının en az iki yarıyılını tamamlamış ve AGNO'su 4.00 üzerinden en az 3.00 olmalıdır.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS PROGRAMLARI İÇİN ÖZEL VE MİSAFİR ÖĞRENCİ YÖNERGESİ.pdf",
+          "madde": "4",
+          "content": "Lisans programlarının en az iki yarıyılını tamamlayan ve AGNO’su 4.00 üzerinden en az 3.00 olan öğrenciler özel öğrenci olarak başvurabilir."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Tek Ders Sınavı",
+      "question": "Tek ders sınavına girmek için AGNO şartı nedir?",
+      "expected_answer": "AGNO'su en az 2.00 olan öğrenciler tek ders sınavına girebilir; ancak Mühendislik Lisans Tamamlama programı öğrencileri için bu şart aranmaz.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS PROGRAMLARI İÇİN TEK DERS SINAVI USUL VE ESASLARI.pdf",
+          "madde": "4",
+          "content": "AGNO’su en az 2,00 olan (Mühendislik Lisans Tamamlama programına kayıtlı öğrencileri için 2,00 AGNO şartı aranmaz) öğrencilere tek ders sınav hakkı verilir."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Ölçme ve Değerlendirme",
+      "question": "BTÜ lisans programlarında final sınavının ham başarı puanına katkı yüzdesi ne kadardır?",
+      "expected_answer": "Final sınavının ham başarı puanına katkısı %40'dan az, %60'dan fazla olamaz.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANS PROGRAMLARI ÖLÇME VE DEĞERLENDİRME ESASLARI YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Yarıyıl sonu veya varsa bütünleme sınav notunun ham başarı puanına katkısı %40’dan az, %60’dan fazla olamaz."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Lisansüstü Eğitim",
+      "question": "Bilimsel değerlendirme sınavlarında yazılı ve sözlü sınavların puanlama oranı nedir?",
+      "expected_answer": "Bilimsel değerlendirme sınavında yazılı ve sözlü sınavlar notuna eşit ağırlıkta katkı sağlarlar.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ BİLİMSEL DEĞERLENDİRME SINAV UYGULAMA ESASLARI.pdf",
+          "madde": "-",
+          "content": "Bilimsel değerlendirme sınavı hem yazılı hem de sözlü şeklinde uygulandığında, yazılı ve sözlü sınavlar bilimsel değerlendirme sınav notuna eşit ağırlıkta katkı sağlarlar."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Disiplinlerarası Anabilim Dalı",
+      "question": "Disiplinlerarası anabilim dalının açılması için hangi onaylar gerekir?",
+      "expected_answer": "Disiplinlerarası anabilim dalı, anabilim dalı kurulu ve enstitü kurulunun önerisi, senato kararı ve Yükseköğretim Kurulu onayı ile açılır.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ DİSİPLİNLERARASI ANABİLİM DALI YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Anabilim Dalı bünyesinde lisansüstü programlar; anabilim dalı kurulu ve enstitü kurulunun önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile açılır."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Doktora Tezleri",
+      "question": "Doktora tezinin bilimsel yayınlardan hazırlanabilmesi için fen bilimleri alanında kaç yayın gereklidir?",
+      "expected_answer": "Fen bilimleri alanında doktora tezinin bilimsel yayınlardan hazırlanabilmesi için 2 adet A.1-A.3 yayın ile 1 adet A.1-A.4 yayın gereklidir.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ DOKTORA TEZLERİNİN BİLİMSEL YAYINLARDAN HAZIRLANMASINA İLİŞKİN UYGULAMA ESASLARI.pdf",
+          "madde": "5",
+          "content": "Fen Bilimleri, Mühendislik, Ziraat, Orman ve Su Ürünleri için 2 adet A.1-A.3 yayın ile 1 adet A.1-A.4 yayın şartını sağlaması gerekmektedir."
+        }
+      ]
+    },
+     {
+      "id": 43,
+      "category": "Mobilya ve Ahşap Uygulama ve Araştırma Merkezi",
+      "question": "Bursa Teknik Üniversitesi Mobilya ve Ahşap Uygulama ve Araştırma Merkezinin temel amaçları nelerdir?",
+      "expected_answer": "Mobilya ve ahşap malzemeler alanında yüksek nitelikli bilimsel araştırmalar yapmak, teknoloji geliştirmek, sanayi ile işbirliği içinde katma değeri yüksek ürünler geliştirmek, eğitim ve araştırmaya destek olmak.",
+      "relevant_contexts": [
+        {
+          "source": "MOBİLYA VE AHŞAP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ.pdf",
+          "madde": "5",
+          "content": "Merkezin amaçları şunlardır: a) Bursa Teknik Üniversitesi bünyesinde mobilya ve ahşap malzemeler alanında yüksek nitelikli bilimsel araştırmalar yapmak ve teknoloji geliştirmek. b) Bu alanda yapılan buluşları ve uygulamaları hızlandırmak, katma değeri yüksek mobilya ve ahşap malzemelerin geliştirilmesine katkı sağlamak. c) Mobilya ve ahşap malzemeler alanında lisans ve lisansüstü dersler için laboratuvar ortamları sağlamak; eğitime, mezuniyet çalışmalarına ve lisansüstü tez çalışmalarına destek olmak. ç) Üniversite, sanayi ve diğer araştırma ve kalkınma kurumlarının bu konuda işbirliği yapmasını sağlamak. d) Altyapı, teknolojik bilgi birikimi, bilimsel projeler ve yetişmiş insan gücüyle ülkemizdeki mobilya ve ahşap malzemeler araştırma/geliştirme faaliyetlerine katkı sağlamak."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "category": "Ormancılık Uygulama ve Araştırma Merkezi",
+      "question": "Ormancılık Uygulama ve Araştırma Merkezinin faaliyet alanları nelerdir?",
+      "expected_answer": "Türkiye ormanları ve sürdürülebilir ormancılık konularında uygulama ve araştırmalar yapmak, eğitimler vermek, ağaçlandırma, kent ormancılığı gibi ormancılık konularında destek olmak.",
+      "relevant_contexts": [
+        {
+          "source": "ORMANCILIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ.pdf",
+          "madde": "6",
+          "content": "Merkezin faaliyet alanları şunlardır: a) Türkiye ormanları ve sürdürülebilir ormancılık konularında uygulama ve araştırmalar yapmak. b) Ormancılık ile ilgili eğitim-öğretimi destekleyici veya tamamlayıcı eğitimler vermek, kurum ve kuruluşların talep ettikleri eğitimleri düzenlemek, danışmanlık hizmetleri vermek. c) Merkezin amaçları doğrultusunda kamu, özel ve tüzel kişiliklerle ortak çalışmalar yapmak. ç) Ağaçlandırma, kurak alanlar, kent ormancılığı, rekreasyon, şehir planlama, yeşil kuşaklar, iklim değişikliği, su havzaları, ekoturizm, avcılık, fidanlık, sera, mera ve havza ıslahı gibi ormancılık konuları ile orman endüstrisi alanında yapılan uygulama ve araştırmalara destek olmak."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Ortak Dersler Bölümü",
+      "question": "Ortak Dersler Bölümünün temel faaliyet alanı nedir?",
+      "expected_answer": "Ortak Dersler Bölümü, üniversitede ortak olarak verilen zorunlu ve seçmeli derslerin yürütülmesini sağlar.",
+      "relevant_contexts": [
+        {
+          "source": "ORTAK DERSLER BÖLÜMÜ İŞLEYİŞ VE EĞİTİM-ÖĞRETİM YÖNERGESİ.pdf",
+          "madde": "Amaç ve Kapsam",
+          "content": "Bursa Teknik Üniversitesi Ortak Dersler Bölümünün amacı; üniversitede ortak olarak verilen zorunlu ve seçmeli derslerin işleyişi ile ilgili esasları düzenlemektir."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Otomotiv Uygulama ve Araştırma Merkezi",
+      "question": "Otomotiv Uygulama ve Araştırma Merkezinin faaliyet alanlarında yer alan başlıca konular nelerdir?",
+      "expected_answer": "İçten yanmalı motorlar, hibrit ve alternatif araç tasarımları, taşıt güvenliği, taşıt elektroniği, yeni nesil ve kompozit malzemeler, veri tabanları oluşturmak ve sanayi ile işbirliği yapmak.",
+      "relevant_contexts": [
+        {
+          "source": "OTOMOTİV UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ.pdf",
+          "madde": "6",
+          "content": "Merkezin faaliyet alanları şunlardır: a) Otomotiv teknolojileri kapsamı içerisinde yer alan; içten yanmalı motorlar, düşük ve/veya sıfır karbon salınımlı araçlar, hibrit ve alternatif araç tasarımları, sürdürülebilirlik, optimizasyon, çevresel faktörler, sürücü/yolcu/taşıt güvenliği ve konforu, lastik ve taşıt dinamiği, taşıt elektroniği, yeni nesil ve kompozit malzemeler, görüntü ve ses işleme, kontrol ve benzeri konularda araştırmalar, incelemeler, geliştirmeler, uygulamalar yapmak."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Öğrenci Konseyi Seçimleri",
+      "question": "Öğrenci konseyi temsilciliğine aday olabilmek için hangi şartlar gereklidir?",
+      "expected_answer": "En az ikinci sınıfa kayıtlı olmak, siyasi parti organlarında üye veya görevli olmamak, yüz kızartıcı suçlardan dolayı adli sicil kaydı bulunmamak, uyarma dışında disiplin cezası almamış olmak.",
+      "relevant_contexts": [
+        {
+          "source": "ÖĞRENCİ KONSEYİ SEÇİMLERİ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Öğrenci temsilciliklerine aday olacak öğrencilerde; a) İlgili fakültenin en az ikinci sınıfına kayıtlı öğrenci olması, b) Siyasi parti organlarında üye veya görevli olmaması, c) Yüz kızartıcı suçlardan dolayı adli sicil kaydı bulunmaması, ç) Uyarma cezası dışında disiplin cezası almamış olması, d) Seçimin yapıldığı dönemde kayıt dondurmamış olması."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Doktora Yurt Dışı Eş Danışman",
+      "question": "BTÜ Lisansüstü Eğitim Enstitüsünde doktora yurt dışı eş danışmanı atanabilmesi için hangi koşullar gereklidir?",
+      "expected_answer": "Öğrencinin yeterliliğe girip başarılı olması, doktora tez önerisi sunmuş olması ve hem öğrencinin hem danışmanın İngilizce yeterliliğe sahip olması gerekir.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ DOKTORA YURT DIŞI EŞ DANIŞMAN ATAMA VE TEŞVİK USUL ESASLARI.pdf",
+          "madde": "5",
+          "content": "Doktora yurt dışı eş danışman ataması gerçekleştirilebilmesi için; a) Öğrencinin yeterliliğe girerek başarılı olması ve doktora tez önerisi sunmalı, b) Öğrencinin ve danışmanın İngilizce yeterliliğe sahip olması (Bkz. Yabancı Dilde Tez Yazım Yönergesi) gerekmektedir."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "category": "Yabancı Dilde Tez Yazımı",
+      "question": "BTÜ'de lisansüstü programlarda yabancı dilde tez yazmak isteyen bir öğrencide hangi şartlardan biri aranır?",
+      "expected_answer": "Tezin yazılacağı dil öğrencinin anadili olmalı, ya da ilgili dilde bir dereceye sahip olmalı, ya da YDS veya muadil sınavlardan gerekli puanı almış olmalıdır.",
+      "relevant_contexts": [
+        {
+          "source": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ YABANCI DİLDE TEZ ÖNERİSİ VE TEZ YAZIMI YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Lisansüstü programlarda yabancı dilde tez yazmak isteyen bir öğrenci aşağıdaki şartlardan en az birini taşıması gerekir: a) Tezin yazılacağı dilin öğrencinin anadili olması, b) Lisans, yüksek lisans ve doktora derecelerinden en az birini eğitim dili ilgili yabancı dilde olan üniversitelerde tamamlamış olması, c) YDS veya YÖK’ün kabul ettiği muadil sınavlardan, YÖK’ün yabancı dilde eğitim verebilme asgari koşullarını sağladığını belgelendirmesi."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "category": "Merkezi Araştırma Laboratuvarı",
+      "question": "BTÜ Merkezi Araştırma Laboratuvarı Biriminin amaçları nelerdir?",
+      "expected_answer": "Araştırma laboratuvarlarını koordine etmek, ar-ge imkanlarının ortak kullanıma açılmasını sağlamak, bilimsel araştırmalara test ve analiz desteği vermek, sanayi ile işbirliği yaparak uygulanabilir sonuçları sanayiye aktarmak.",
+      "relevant_contexts": [
+        {
+          "source": "MERKEZİ ARAŞTIRMA LABORATUVARI BİRİMİ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Merkezi Araştırma Laboratuvarı Biriminin amaçları şunlardır: a) Üniversite bünyesinde mevcut araştırma laboratuvarları ve benzer birimleri koordine ederek AR-GE imkânlarının birimler arası ortak kullanıma açılmasını sağlamak, b) Bursa Teknik Üniversitesinde yapılan temel, uygulamalı ve disiplinler arası alanlardaki bilimsel araştırma çalışmalarına, test ve analiz yaparak destek sağlamak, ç) Kamu-sanayi işbirliği yaparak sorunların çözümüne yönelik katkı sağlamak, d) Yapılacak araştırmalarda uluslararası işbirliğini teşvik etmek, üniversite-sanayi işbirliğini güçlendirmek ve uygulanabilir sonuçların sanayiye aktarımını hızlandırmak."
+        }
+      ]
+    },
+     {
+      "id": 51,
+      "category": "Personel Ödülleri",
+      "question": "Bursa Teknik Üniversitesi'nde Rektörlük Özel Ödülü kimlere verilir?",
+      "expected_answer": "Bulundukları kadroda yüksek performans gösteren veya Üniversitenin gelişmesine araştırma, çalışma, eser ve etkinliklerle katkıda bulunanlar arasından Senato tarafından belirlenen akademik ve idari personele verilir.",
+      "relevant_contexts": [
+        {
+          "source": "PERSONEL ÖDÜLLERİ USUL VE ESASLARI.pdf",
+          "madde": "4",
+          "content": "Rektörlük Özel Ödülü: Bulundukları kadroda yüksek performans gösteren veya Üniversitemizin gelişmesine araştırma, çalışma, eser ve etkinliklerle katkıda bulunanlar arasından Senato tarafından belirlenen akademik ve idari personele verilir. Ödül sayısına Rektörlük makamınca karar verilir."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "category": "Robot Teknolojileri ve Akıllı Sistemler Merkezi",
+      "question": "Robot Teknolojileri ve Akıllı Sistemler Uygulama ve Araştırma Merkezi'nin başlıca amaçlarından biri nedir?",
+      "expected_answer": "Robot teknolojileri ve akıllı sistemler alanında disiplinler arası araştırma ve teknoloji uygulamaları için ulusal ve uluslararası işbirlikleri yapmak.",
+      "relevant_contexts": [
+        {
+          "source": "ROBOT TEKNOLOJİLERİ VE AKILLI SİSTEMLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ.pdf",
+          "madde": "5",
+          "content": "Merkezin amaçları şunlardır: a) Robot teknolojileri ve akıllı sistemler alanında disiplinler arası araştırma ve teknoloji uygulamaları için ulusal ve uluslararası işbirlikleri yapmak."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "category": "Sağlıklı Yaşam ve Bağımlılıkla Mücadele",
+      "question": "Sağlıklı Yaşam ve Bağımlılıkla Mücadele Koordinatörlüğünün temel amacı nedir?",
+      "expected_answer": "Bağımlılık türleri (tütün, alkol, madde, teknoloji bağımlılığı) ve sağlıklı yaşam ile ilgili olarak üniversite öğrenci ve personeli ile toplumda farkındalığın artırılması ve toplumun sağlıklı yaşam prensiplerine yönelik bilgilendirilmesi doğrultusunda bağımlılık türlerinin önüne geçilmesidir.",
+      "relevant_contexts": [
+        {
+          "source": "SAĞLIKLI YAŞAM VE BAĞIMLILIKLA MÜCADELE KOORDİNATÖRLÜĞÜ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Koordinatörlüğün amacı: Bağımlılık ile mücadelede önleme ve erken müdahale çalışmalarının önemi doğrultusunda bağımlılık türleri (tütün, alkol, madde, teknoloji bağımlılığı) ve sağlıklı yaşam ile ilgili olarak üniversitemiz öğrenci ve personelleri ile toplumun genelinde farkındalığın arttırılması ve toplumun sağlıklı yaşam prensiplerine yönelik bilgilendirilmesi doğrultusunda bağımlılık türlerinin önüne geçilmesi amaçlanmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "category": "Sınav Uygulama",
+      "question": "BTÜ'de ara sınava giremeyen öğrenciler için mazeret sınavı hakkı hangi durumlarda verilir?",
+      "expected_answer": "Ara sınava giremeyen ve ilgili yönetim kurulu tarafından kabul edilen mazereti olan öğrenciler için ilgili yarıyılın son ders gününe kadar mazeret sınavı yapılır. Ara sınavların dışındaki sınavlar için mazeret sınav hakkı tanınmaz.",
+      "relevant_contexts": [
+        {
+          "source": "SINAV UYGULAMA USUL VE ESASLARI.pdf",
+          "madde": "5",
+          "content": "İlgili yönetim kurulu kararı ile kabul edilen mazereti nedeniyle ara sınava giremeyen öğrenciler için ilgili yarıyılın son ders gününe kadar mazeret sınavı yapılarak notu girilmiş olmalıdır. Ara sınavların dışındaki sınavlar için mazeret sınav hakkı tanınmaz."
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "category": "Öğrenci Toplulukları",
+      "question": "Bursa Teknik Üniversitesi'nde bir öğrenci topluluğu kurabilmek için en az kaç üye gereklidir?",
+      "expected_answer": "Üye yeter sayısı en az 20 üyedir. Üye yeter sayısını tamamlayamayan topluluk açılamaz.",
+      "relevant_contexts": [
+        {
+          "source": "ÖĞRENCİ TOPLULUKLARI YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Üye yeter sayısı en az 20 üyedir. Üye yeter sayısını tamamlayamayan topluluk açılamaz."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "category": "Önceki Öğrenmelerin Tanınması",
+      "question": "Bursa Teknik Üniversitesi'nde önceki öğrenmelerin tanınması yoluyla toplam en fazla kaç AKTS kredilik ders tanınabilir?",
+      "expected_answer": "İlgili tanıma yaklaşımları ile en fazla toplam 15 AKTS kredilik ders tanınabilir.",
+      "relevant_contexts": [
+        {
+          "source": "ÖNCEKİ ÖĞRENMELERİN TANİNMASI SENATO ESASLARI.pdf",
+          "madde": "4",
+          "content": "Bu esasların ikinci maddesinde bahsi geçen tanıma yaklaşımları ile en fazla toplam 15 AKTS kredilik ders tanınabilir."
+        }
+      ]
+    },
+     {
+      "id": 57,
+      "category": "Teknoloji Yarışmaları",
+      "question": "BTÜ'de teknoloji yarışmalarına katılacak takımlar başvurularını hangi dönemlerde yapmalıdır?",
+      "expected_answer": "Takımlar katılım taleplerini her yıl Ekim ve Mart aylarının sonuna kadar başvuru formunu doldurarak Koordinatörlüğe yazılı olarak teslim eder.",
+      "relevant_contexts": [
+        {
+          "source": "TEKNOLOJİ YARIŞMALARI KOORDİNATÖRLÜĞÜ YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Takımlar katılım taleplerini her yıl Ekim ve Mart aylarının sonuna kadar başvuru formunu doldurarak Koordinatörlüğe yazılı olarak teslim eder."
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "category": "Tören, Temsil ve Ağırlama",
+      "question": "BTÜ'de törenler için komisyonun doğal üyeleri kimlerden oluşur?",
+      "expected_answer": "İlgili Rektör Yardımcısı, Genel Sekreter, Sağlık, Kültür Spor Daire Başkanı, Bilgi İşlem Daire Başkanı, İdari ve Mali İşler Daire Başkanı, Öğrenci İşleri Daire Başkanı, Özel Kalem Müdürü ve İletişim Ofisi Yöneticisi.",
+      "relevant_contexts": [
+        {
+          "source": "TÖREN, TEMSİL VE AĞIRLAMA YÖNERGESİ.pdf",
+          "madde": "4",
+          "content": "Komisyonun doğal üyeleri; İlgili Rektör Yardımcısı, Genel Sekreter, Sağlık, Kültür Spor Daire Başkanı, Bilgi İşlem Daire Başkanı, İdari ve Mali İşler Daire Başkanı, Öğrenci İşleri Daire Başkanı, Özel Kalem Müdürü ve İletişim Ofisi Yöneticisidir."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "category": "Trafik",
+      "question": "BTÜ kampüslerinde hız sınırı kaç km/h'dir?",
+      "expected_answer": "Tüm yerleşke içerisinde hız sınırı 30 km/h olarak belirlenmiştir.",
+      "relevant_contexts": [
+        {
+          "source": "TRAFİK YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Tüm yerleşke içerisinde hız sınırı 30 km/h olarak belirlenmiştir."
+        },
+         {
+      "id": 60,
+      "category": "Yabancı Diller Yüksekokulu",
+      "question": "BTÜ'de hazırlık sınıfından muafiyet için BTÜYDS'den en az kaç puan alınmalıdır?",
+      "expected_answer": "Hazırlık sınıfı eğitiminden muaf olabilmek için BTÜYDS’den en az 70 puan alınmalıdır.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI DİLLER YÜKSEKOKULU EĞİTİM-ÖĞRETİM VE SINAV YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Hazırlık sınıfı eğitiminden muaf olmak isteyen öğrencilerin BTÜYDS’den en az 70 (yetmiş) puan almaları gerekir."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "category": "Yabancı Uyruklu Öğretim Elemanı",
+      "question": "BTÜ’de yabancı uyruklu öğretim elemanı çalıştırılması için başvurular hangi dile yapılabilir?",
+      "expected_answer": "Aday, başvurusunu üniversiteye İngilizce dilinde gerçekleştirebilir.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI UYRUKLU ÖĞRETİM ELEMANI ÇALIŞTIRILMASINA İLİŞKİN YÖNERGE.pdf",
+          "madde": "6",
+          "content": "Aday, başvurusunu üniversiteye İngilizce dilinde gerçekleştirebilir."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "category": "Yandal Programı",
+      "question": "BTÜ Yandal Programına başvurabilmek için AGNO en az kaç olmalıdır?",
+      "expected_answer": "Başvuru anında anadal programındaki AGNO şartı en az 2,50/4.00’dır.",
+      "relevant_contexts": [
+        {
+          "source": "YANDAL PROGRAM YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Başvuru anında anadal programındaki AGNO şartı en az 2,50/4.00’dır."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "category": "Yemek Bursu",
+      "question": "BTÜ'de yemek bursunun amacı nedir?",
+      "expected_answer": "Üniversite, kamu ve özel sektör kuruluşları arasında işbirliği oluşturulmasına, sanayinin ihtiyaç duyduğu bilgi ve teknolojinin üniversitede üretilmesine, bilgi ve teknoloji aktarımına ve somut çıktılar geliştirilmesine katkı sağlamaktır.",
+      "relevant_contexts": [
+        {
+          "source": "YEMEK BURSU YÖNERGESİ.pdf",
+          "madde": "1",
+          "content": "Bu Yönergenin amacı; ... üniversite, kamu ve özel sektör kuruluşları arasında işbirliği oluşturulmasına, sanayinin ihtiyaç duyduğu bilgi ve teknolojinin üniversitede üretilmesine, ... bilgi ve teknoloji aktarımına ve somut çıktılar geliştirilmesine katkı sağlamaktır."
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "category": "Yeni Nesil Kompozit Malzeme Merkezi",
+      "question": "Yeni Nesil Kompozit Malzeme Uygulama ve Araştırma Merkezi'nin amaçlarından biri nedir?",
+      "expected_answer": "Bursa Teknik Üniversitesi bünyesinde Yeni Nesil Kompozit Malzemeler alanında yüksek nitelikli bilimsel araştırmalar yapmak ve teknoloji geliştirmek.",
+      "relevant_contexts": [
+        {
+          "source": "YENİ NESİL KOMPOZİT MALZEME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİGİ.pdf",
+          "madde": "5",
+          "content": "Merkezin amaçları şunlardır: a) Üniversite bünyesinde Yeni Nesil Kompozit Malzemeler alanında yüksek nitelikli bilimsel araştırmalar yapmak ve teknoloji geliştirmek."
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "category": "Yurtiçi ve Yurtdışı Öğrenci Görevlendirme",
+      "question": "BTÜ'de bilimsel etkinliklere katılım desteğinden yararlanabilmek için lisans öğrencisinin genel akademik not ortalaması en az kaç olmalıdır?",
+      "expected_answer": "Lisans öğrencisinin genel akademik not ortalaması en az 2.70 olmalıdır.",
+      "relevant_contexts": [
+        {
+          "source": "YURT İÇİ VE YURT DIŞI ÖĞRENCİ GÖREVLENDİRME YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Bilimsel etkinliklere katılım desteğinden yararlanacak öğrencilerin, başvuru tarihi itibarıyla lisans düzeyinde en az 2.70 ... genel akademik not ortalamasına sahip olması gerekmektedir."
+        },
+           {
+      "id": 66,
+      "category": "Yabancı Diller Yüksekokulu",
+      "question": "BTÜ Yabancı Diller Yüksekokulu hazırlık sınıfında azami öğrenim süresi nedir ve bu süreyi aşan öğrenciler için ne olur?",
+      "expected_answer": "Zorunlu hazırlık sınıfının süresi azami iki yıldır (dört yarıyıl). Bu süre sonunda başarılı olamayan öğrencilerin programla ilişiği kesilir.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI DİLLER YÜKSEKOKULU EĞİTİM-ÖĞRETİM VE SINAV YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Zorunlu hazırlık sınıfı eğitiminin süresi azami iki yıldır (dört yarıyıl). ... Zorunlu hazırlık sınıfını iki yıl içinde başarı ile tamamlayamayan öğrencilerin programdan ilişiği kesilir."
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "category": "Yandal Programı",
+      "question": "BTÜ Yandal Programı’na devam eden bir öğrenci, yandal programından hangi durumlarda çıkarılır?",
+      "expected_answer": "Yandal programında genel not ortalaması üst üste iki dönem 2,50'nin altına düşen; yandal programı ile ilişiği anadal programıyla kesilen veya anadal programından mezun olan öğrenciler yandal programından çıkarılır.",
+      "relevant_contexts": [
+        {
+          "source": "YANDAL PROGRAM YÖNERGESİ.pdf",
+          "madde": "11",
+          "content": "Yandal programında genel not ortalaması üst üste iki dönem 2,50'nin altına düşen; yandal programı ile ilişiği anadal programı ile kesilen veya anadal programından mezun olan öğrenciler yandal programından çıkarılır."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "category": "Yurtdışından Öğrenci Kabulü",
+      "question": "BTÜ'ye yurtdışından öğrenci kabulünde hangi belge gereklidir ve Türkçe bilmeyen öğrenciler için özel bir durum var mıdır?",
+      "expected_answer": "Başvuran öğrenciler lise diploması ve not döküm belgesi sunar; Türkçe bilmeyenler için, Üniversitenin Türkçe yeterlilik sınavına girerek başarılı olmaları veya kabul edilen bir sertifika sunmaları gerekir.",
+      "relevant_contexts": [
+        {
+          "source": "YURTDIŞINDAN ÖĞRENCİ KABULÜNE İLİŞKİN YÖNERGE.pdf",
+          "madde": "5",
+          "content": "Başvuru için adaylardan, lise diploması ve not döküm belgesi istenir... Türkçe bilmeyen öğrenciler, Üniversite tarafından yapılan Türkçe yeterlik sınavında başarılı olmak veya Üniversite tarafından kabul edilen bir Türkçe yeterlik belgesine sahip olmak zorundadır."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "category": "Yabancı Uyruklu Öğretim Elemanı",
+      "question": "BTÜ’de yabancı uyruklu öğretim elemanlarının çalışma izin süresi nedir?",
+      "expected_answer": "Yabancı uyruklu öğretim elemanlarının çalışma izinleri, sözleşmelerindeki süreyle sınırlı olup, her bir sözleşme sonunda yenilenebilir.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI UYRUKLU ÖĞRETİM ELEMANI ÇALIŞTIRILMASINA İLİŞKİN YÖNERGE.pdf",
+          "madde": "7",
+          "content": "Yabancı uyruklu öğretim elemanlarının çalışma izinleri, sözleşmelerinde belirtilen süreyle sınırlıdır ve her bir sözleşme sonunda yenilenebilir."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "category": "Staj Yönergesi",
+      "question": "BTÜ'de staj yapılan işletmede disiplin cezası alan öğrenciler hakkında ne işlem uygulanır?",
+      "expected_answer": "Staj yapılan işletmeden disiplin cezası alan öğrencinin stajı iptal edilir ve başarısız sayılır.",
+      "relevant_contexts": [
+        {
+          "source": "STAJ YÖNERGESİ.pdf",
+          "madde": "9",
+          "content": "Staj yapılan işletmeden disiplin cezası alan öğrencinin stajı iptal edilir ve başarısız sayılır."
+        },
+          {
+      "id": 71,
+      "category": "Yabancı Diller Yüksekokulu",
+      "question": "BTÜ Yabancı Diller Yüksekokulu hazırlık sınıfında devamsızlık sınırı nedir?",
+      "expected_answer": "Hazırlık sınıfında çeyrek dönem için toplam ders saatinin %15’ini aşan devamsızlık durumunda, öğrenci devamsız sayılır ve sınavlara giremez.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI DİLLER YÜKSEKOKULU EĞİTİM-ÖĞRETİM VE SINAV YÖNERGESİ.pdf",
+          "madde": "7",
+          "content": "Devamsızlık süreleri her çeyrek dönem için ayrı olarak hesaplanır. Bir çeyrek dönem için toplam ders saatinin %15’ini aşan devamsızlık durumunda öğrenci devamsız sayılır ve sınavlara giremez."
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "category": "Yandal Programı",
+      "question": "BTÜ’de yandal programına yatay geçiş ile gelen öğrencilerin önceki yandal dersleri kabul edilir mi?",
+      "expected_answer": "Yatay geçişle gelen öğrencilerin daha önce aldıkları yandal programı dersleri, ilgili bölüm tarafından uygun görülürse yandal programına sayılır.",
+      "relevant_contexts": [
+        {
+          "source": "YANDAL PROGRAM YÖNERGESİ.pdf",
+          "madde": "13",
+          "content": "Yatay geçişle gelen öğrencilerin daha önce aldıkları yandal programı dersleri, ilgili bölüm tarafından uygun görülürse yandal programına sayılır."
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "category": "Staj Yönergesi",
+      "question": "BTÜ’de öğrencinin staj süresince raporlu olduğu günler stajdan sayılır mı?",
+      "expected_answer": "Raporlu olunan günler staj süresinden sayılmaz ve telafi edilmesi gerekir.",
+      "relevant_contexts": [
+        {
+          "source": "STAJ YÖNERGESİ.pdf",
+          "madde": "9",
+          "content": "Raporlu olunan günler staj süresinden sayılmaz. Bu günlerin telafisi gerekir."
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "category": "Yurtiçi ve Yurtdışı Öğrenci Görevlendirme",
+      "question": "BTÜ’de yurt dışı bilimsel etkinlik desteği almak isteyen yüksek lisans ve doktora öğrencilerinin en az genel not ortalaması ne olmalıdır?",
+      "expected_answer": "Yüksek lisans için en az 3.00, doktora için en az 3.25 genel not ortalaması gerekir.",
+      "relevant_contexts": [
+        {
+          "source": "YURT İÇİ VE YURT DIŞI ÖĞRENCİ GÖREVLENDİRME YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "Bilimsel etkinliklere katılım desteğinden yararlanacak yüksek lisans öğrencilerinin başvuru tarihi itibarıyla en az 3.00, doktora öğrencilerinin ise en az 3.25 genel akademik not ortalamasına sahip olması gerekmektedir."
+        },
+         {
+      "id": 75,
+      "category": "Yabancı Diller Yüksekokulu / Muafiyet",
+      "question": "Hazırlık sınıfı muafiyetinde, İngilizce Mütercim ve Tercümanlık veya İngiliz Dili ve Edebiyatı programı öğrencileri için YDS’den kaç puan gereklidir ve diğer bölümler için bu puan farklı mıdır?",
+      "expected_answer": "İngilizce Mütercim ve Tercümanlık veya İngiliz Dili ve Edebiyatı programları için YDS’den en az 80 puan; diğer zorunlu veya isteğe bağlı hazırlık sınıfları için YDS’den en az 65 puan gereklidir.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI DİLLER YÜKSEKOKULU EĞİTİM-ÖĞRETİM VE SINAV YÖNERGESİ.pdf",
+          "madde": "5",
+          "content": "(a) İngilizce Mütercim ve Tercümanlık, İngiliz Dili ve Edebiyatı gibi bir bölüm alanı belli bir yabancı dille ilgili olan lisans programları için YDS’den en az 80 (seksen) puan veya ÖSYM tarafından belirlenen yabancı dil eşdeğerlik tablosunda yer alan sınavlardan bu puana karşılık gelen eşdeğer puanı almaları, (b) Diğer zorunlu veya isteğe bağlı İngilizce hazırlık sınıfının olduğu lisans programları için YDS’den en az 65 (altmış beş) puan veya eşdeğer puanı almaları gerekir."
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "category": "Staj Yönergesi / İstisnai Durumlar",
+      "question": "BTÜ’de stajını tamamlamış fakat staj defterini ilan edilen tarihte teslim edemeyen öğrencinin stajı hangi durumda kabul edilir?",
+      "expected_answer": "Staj defteri ilan edilen tarihte teslim edilmezse staj geçersiz sayılır; ancak mazeretini belgeleyen ve ilgili kurulca uygun görülen öğrencinin stajı kabul edilebilir.",
+      "relevant_contexts": [
+        {
+          "source": "STAJ YÖNERGESİ.pdf",
+          "madde": "10",
+          "content": "Staj defteri ilan edilen tarihte teslim edilmezse staj geçersiz sayılır. Ancak mazeretini belgeleyen ve ilgili kurulca uygun görülen öğrencinin stajı kabul edilebilir."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "category": "Yabancı Uyruklu Öğretim Elemanı / Sözleşme ve Süreçler",
+      "question": "BTÜ’de yabancı uyruklu öğretim elemanının sözleşmesi bitmeden ayrılmak istemesi durumunda süreç nasıl işler?",
+      "expected_answer": "Öğretim elemanı ayrılma talebini gerekçesiyle birlikte yazılı olarak Rektörlüğe bildirir. Sözleşme, ilgili birim ve komisyon görüşüyle Rektörlük tarafından feshedilebilir.",
+      "relevant_contexts": [
+        {
+          "source": "YABANCI UYRUKLU ÖĞRETİM ELEMANI ÇALIŞTIRILMASINA İLİŞKİN YÖNERGE.pdf",
+          "madde": "8",
+          "content": "Yabancı uyruklu öğretim elemanının sözleşme süresi bitmeden ayrılmak istemesi halinde gerekçesiyle birlikte Rektörlüğe yazılı olarak başvurması gerekir. Sözleşmenin feshi, ilgili birimin görüşü ve Komisyonun önerisi ile Rektörlük tarafından gerçekleştirilir."
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "category": "Yurtiçi ve Yurtdışı Öğrenci Görevlendirme / Çakışan Haklar",
+      "question": "BTÜ’de bir öğrenci hem yurtiçi hem de yurtdışı bilimsel etkinlik desteğinden aynı yıl içinde yararlanabilir mi?",
+      "expected_answer": "Hayır, aynı öğretim yılı içinde bir öğrenci hem yurtiçi hem de yurtdışı bilimsel etkinlik desteğinden yararlanamaz.",
+      "relevant_contexts": [
+        {
+          "source": "YURT İÇİ VE YURT DIŞI ÖĞRENCİ GÖREVLENDİRME YÖNERGESİ.pdf",
+          "madde": "6",
+          "content": "Aynı öğretim yılı içerisinde bir öğrenci hem yurtiçi hem de yurtdışı bilimsel etkinlik desteğinden yararlanamaz."
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "category": "Yandal Programı / Mezuniyet İlişkisi",
+      "question": "BTÜ’de bir öğrenci, anadal programından mezun olduğunda yandal programına devam edebilir mi?",
+      "expected_answer": "Hayır, anadal programından mezun olan öğrencinin yandal programı ile ilişkisi kesilir.",
+      "relevant_contexts": [
+        {
+          "source": "YANDAL PROGRAM YÖNERGESİ.pdf",
+          "madde": "11",
+          "content": "Anadal programından mezun olan öğrenciler yandal programından çıkarılır."
+        }
+      ]
+    }
+      ]
+    }
+
+      ]
+    }
+
+      ]
+    }
+      ]
+    }
+
+
+
+
+
+  ]
+
+}
